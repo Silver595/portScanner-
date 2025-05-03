@@ -73,5 +73,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### Author
 
-- **Your Name**
+- **Silver595**
 - [Silver595](https://github.com/Silver595)
